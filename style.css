@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+    border: solid;
+    border-width: medium;
+    border-color: blue;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    border: solid;
+    border-color: black;
+    border-width: 15 px;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+    border: solid;
+    border-color: forestgreen;
+    border-width: 15 px;
+}
+
+h3 {
+    text-align: center;
+    color: darkblue;
+    border: solid;
+    border-color: forestgreen;
+    border-width: 15 px;
+}
+
+a {
+    text-align: center;
+    color: darkblue;    
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-color: black;
+    margin: 10px;
+}
